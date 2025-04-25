@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   // Create login button element
   const loginButton = document.createElement('a');
-  loginButton.href = 'https://3000-ixvibnfipiaco9lly6sl4-3a4debb8.manus.computer';
+  loginButton.href = 'cv-admin-dashboard-production.up.railway.app';
   loginButton.target = '_blank';
   loginButton.className = 'admin-login-btn';
   loginButton.textContent = 'Admin Login';
